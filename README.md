@@ -6,7 +6,7 @@ projet
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: FOO Bar Group B
+- `initiator`: LAWS Kellianne Group F
 - `contributor-1`: BAR Foo Group B
 - `contributor-2`: WIZZ Bang B 
 - `contributor-3`: TOTO Titi Group B 
